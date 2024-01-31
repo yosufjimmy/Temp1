@@ -116,7 +116,7 @@ img {
   transition: 300ms;
 }
 
-.menu:hover span:nth-child(2) {
+.links:hover span:nth-child(2) {
   width: 100%;
 }
 
